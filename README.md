@@ -1,3 +1,4 @@
+HEAD
 # Turning Point Church International (TPCI) Website
 
 A responsive static website built with HTML, CSS and vanilla JavaScript.
@@ -64,3 +65,6 @@ The photo gallery now uses a gallery-scoped, horizontally scrollable circular sh
 
 ## Hero portal animation
 The scroll-reversible portal opening is scoped exclusively to the `#home` hero. It uses the existing hero photograph and text. The other page sections, including the circular gallery, are not targeted by the portal styles or script. With JavaScript disabled or reduced motion enabled, the hero falls back to its static presentation.
+
+# turning-point-church-international
+ab04b5cee9b895ff2593f588f6a1f5bbd2a8d0f5
